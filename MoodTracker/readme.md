@@ -46,7 +46,10 @@ A clean and interactive CLI tool that lets users log their daily mood with emoji
   "note": "Felt productive and focused today.",
   "ai_mood": "Positive"
 }
+```
+
 🚀 Future Enhancements
+
 - 🖼️ GUI version with Tkinter (Phase 3)
 - 📊 Mood & sentiment charts using matplotlib
 - 🔐 Private note encryption
@@ -54,6 +57,6 @@ A clean and interactive CLI tool that lets users log their daily mood with emoji
 - 🧩 Unified dashboard in final CuraLink build
 
 👤 Author
+
 - **Iceycoast**
   Python learner & builder of practical AI-based wellness tools
-```
