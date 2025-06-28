@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Vitamin C",
+        "dose": "1000mg",
+        "time taken": "22:30",
+        "date taken": "28-06-2025"
+    },
+    {
+        "name": "Ibuprofen",
+        "dose": "400mg",
+        "time taken": "08:00",
+        "date taken": "27-06-2025"
+    },
+    {
+        "name": "Paracetamol",
+        "dose": "500mg",
+        "time taken": "13:00",
+        "date taken": "27-06-2025"
+    },
+    {
+        "name": "Aspirin",
+        "dose": "100mg",
+        "time taken": "09:00",
+        "date taken": "26-06-2025"
+    },
+    {
+        "name": "Metformin",
+        "dose": "850mg",
+        "time taken": "07:30",
+        "date taken": "26-06-2025"
+    },
+    {
+        "name": "Amoxicillin",
+        "dose": "500mg",
+        "time taken": "12:00",
+        "date taken": "25-06-2025"
+    },
+    {
+        "name": "Lisinopril",
+        "dose": "10mg",
+        "time taken": "08:30",
+        "date taken": "25-06-2025"
+    },
+    {
+        "name": "Atorvastatin",
+        "dose": "20mg",
+        "time taken": "21:00",
+        "date taken": "24-06-2025"
+    },
+    {
+        "name": "Cetirizine",
+        "dose": "10mg",
+        "time taken": "20:00",
+        "date taken": "24-06-2025"
+    },
+    {
+        "name": "Omeprazole",
+        "dose": "20mg",
+        "time taken": "07:00",
+        "date taken": "23-06-2025"
+    },
+    {
+        "name": "Paracetamol",
+        "dose": "500mg",
+        "time taken": "23:40",
+        "date taken": "28-06-2025"
+    }
+]
