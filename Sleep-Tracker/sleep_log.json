@@ -1,0 +1,50 @@
+[
+    {
+        "date": "24-06-2025",
+        "sleep time": "12:00 AM",
+        "wake time": "08:00 AM",
+        "duration": 8.0
+    },
+    {
+        "date": "25-06-2025",
+        "sleep time": "01:30 AM",
+        "wake time": "07:00 AM",
+        "duration": 5.5
+    },
+    {
+        "date": "26-06-2025",
+        "sleep time": "11:45 PM",
+        "wake time": "06:15 AM",
+        "duration": 6.5
+    },
+    {
+        "date": "27-06-2025",
+        "sleep time": "03:00 AM",
+        "wake time": "08:00 AM",
+        "duration": 5.0
+    },
+    {
+        "date": "28-06-2025",
+        "sleep time": "02:00 AM",
+        "wake time": "06:00 AM",
+        "duration": 4.0
+    },
+    {
+        "date": "29-06-2025",
+        "sleep time": "10:45 PM",
+        "wake time": "06:45 AM",
+        "duration": 8.0
+    },
+    {
+        "date": "30-06-2025",
+        "sleep time": "11:30 PM",
+        "wake time": "07:00 AM",
+        "duration": 7.5
+    },
+    {
+        "date": "01-07-2025",
+        "sleep time": "03:00 AM",
+        "wake time": "07:00 AM",
+        "duration": 4.0
+    }
+]
