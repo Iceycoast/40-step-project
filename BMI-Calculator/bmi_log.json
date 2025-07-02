@@ -1,0 +1,233 @@
+[
+    {
+        "date": "20-06-2025",
+        "name": "Aarav Sharma",
+        "age": 26,
+        "gender": "Male",
+        "height": 175,
+        "weight": 72,
+        "bmi": 23.5,
+        "category": "Normal",
+        "advice": "Maintain your current routine, Aarav! Keep up regular workouts and a balanced diet."
+    },
+    {
+        "date": "21-06-2025",
+        "name": "Sara Khan",
+        "age": 31,
+        "gender": "Female",
+        "height": 160,
+        "weight": 85,
+        "bmi": 33.2,
+        "category": "Obese",
+        "advice": "Hi Sara! Try to reduce sugar intake and include light daily walks. A small start makes a big difference!"
+    },
+    {
+        "date": "22-06-2025",
+        "name": "Rohan Das",
+        "age": 29,
+        "gender": "Male",
+        "height": 180,
+        "weight": 59,
+        "bmi": 18.2,
+        "category": "Underweight",
+        "advice": "Rohan, add more protein and healthy carbs to your diet. Consider strength training."
+    },
+    {
+        "date": "22-06-2025",
+        "name": "Priya Mehra",
+        "age": 24,
+        "gender": "Female",
+        "height": 165,
+        "weight": 68,
+        "bmi": 25.0,
+        "category": "Overweight",
+        "advice": "Priya, you\u2019re right on the line. Start light cardio and cut down processed foods."
+    },
+    {
+        "date": "23-06-2025",
+        "name": "Ankit Verma",
+        "age": 35,
+        "gender": "Male",
+        "height": 172,
+        "weight": 80,
+        "bmi": 27.0,
+        "category": "Overweight",
+        "advice": "Ankit, start brisk walking daily and limit fried snacks."
+    },
+    {
+        "date": "23-06-2025",
+        "name": "Meena Raju",
+        "age": 28,
+        "gender": "Female",
+        "height": 158,
+        "weight": 47,
+        "bmi": 18.9,
+        "category": "Normal",
+        "advice": "Meena, you\u2019re doing great! Stay active and eat balanced meals."
+    },
+    {
+        "date": "24-06-2025",
+        "name": "Dev Patel",
+        "age": 27,
+        "gender": "Male",
+        "height": 178,
+        "weight": 90,
+        "bmi": 28.4,
+        "category": "Overweight",
+        "advice": "Dev, time to swap sugar drinks for water and add 30 mins walking."
+    },
+    {
+        "date": "24-06-2025",
+        "name": "Aisha Sheikh",
+        "age": 32,
+        "gender": "Female",
+        "height": 162,
+        "weight": 60,
+        "bmi": 22.9,
+        "category": "Normal",
+        "advice": "Aisha, keep your current lifestyle \u2014 maybe add yoga for variety."
+    },
+    {
+        "date": "25-06-2025",
+        "name": "Rahul Joshi",
+        "age": 30,
+        "gender": "Male",
+        "height": 176,
+        "weight": 103,
+        "bmi": 33.2,
+        "category": "Obese",
+        "advice": "Rahul, reduce portion sizes and increase daily movement gradually."
+    },
+    {
+        "date": "25-06-2025",
+        "name": "Kavya Sen",
+        "age": 23,
+        "gender": "Female",
+        "height": 159,
+        "weight": 64,
+        "bmi": 25.3,
+        "category": "Overweight",
+        "advice": "Kavya, cut late-night snacks and walk after meals."
+    },
+    {
+        "date": "26-06-2025",
+        "name": "Imran Ali",
+        "age": 34,
+        "gender": "Male",
+        "height": 182,
+        "weight": 76,
+        "bmi": 22.9,
+        "category": "Normal",
+        "advice": "Imran, solid range. Maintain it with regular check-ins and stretching."
+    },
+    {
+        "date": "26-06-2025",
+        "name": "Sneha Kulkarni",
+        "age": 36,
+        "gender": "Female",
+        "height": 161,
+        "weight": 49,
+        "bmi": 18.9,
+        "category": "Normal",
+        "advice": "Sneha, keep your meals nutrient-dense and hydration up."
+    },
+    {
+        "date": "27-06-2025",
+        "name": "Vikram Raj",
+        "age": 40,
+        "gender": "Male",
+        "height": 170,
+        "weight": 88,
+        "bmi": 30.4,
+        "category": "Obese",
+        "advice": "Vikram, aim to cut down on fried foods and start morning walks."
+    },
+    {
+        "date": "27-06-2025",
+        "name": "Nisha Rao",
+        "age": 27,
+        "gender": "Female",
+        "height": 167,
+        "weight": 57,
+        "bmi": 20.4,
+        "category": "Normal",
+        "advice": "Nisha, balanced BMI! Just stay consistent with your habits."
+    },
+    {
+        "date": "28-06-2025",
+        "name": "Aditya Jain",
+        "age": 25,
+        "gender": "Male",
+        "height": 180,
+        "weight": 110,
+        "bmi": 33.9,
+        "category": "Obese",
+        "advice": "Aditya, focus on reducing sugary foods and add cardio 4x a week."
+    },
+    {
+        "date": "28-06-2025",
+        "name": "Shreya Nair",
+        "age": 22,
+        "gender": "Female",
+        "height": 155,
+        "weight": 48,
+        "bmi": 19.9,
+        "category": "Normal",
+        "advice": "Shreya, maintain your balance and include iron-rich foods."
+    },
+    {
+        "date": "29-06-2025",
+        "name": "Tanmay Bhat",
+        "age": 33,
+        "gender": "Male",
+        "height": 174,
+        "weight": 67,
+        "bmi": 22.1,
+        "category": "Normal",
+        "advice": "Tanmay, great range! Add 2 rest days weekly and hydrate well."
+    },
+    {
+        "date": "29-06-2025",
+        "name": "Divya Menon",
+        "age": 30,
+        "gender": "Female",
+        "height": 162,
+        "weight": 75,
+        "bmi": 28.6,
+        "category": "Overweight",
+        "advice": "Divya, try home-cooked meals and set small weekly weight goals."
+    },
+    {
+        "date": "30-06-2025",
+        "name": "Harsh Gupta",
+        "age": 38,
+        "gender": "Male",
+        "height": 168,
+        "weight": 98,
+        "bmi": 34.7,
+        "category": "Obese",
+        "advice": "Harsh, consider meal prep and 10k steps daily for 3 weeks straight."
+    },
+    {
+        "date": "30-06-2025",
+        "name": "Neha Sinha",
+        "age": 29,
+        "gender": "Female",
+        "height": 160,
+        "weight": 58,
+        "bmi": 22.7,
+        "category": "Normal",
+        "advice": "Neha, your BMI is ideal. Maintain it by balancing carbs and protein."
+    },
+    {
+        "date": "03-07-2025",
+        "name": "Icey",
+        "age": 22,
+        "gender": "Male",
+        "height": 172.0,
+        "weight": 68.0,
+        "bmi": 23.0,
+        "category": "normal",
+        "advice": "Stay active by incorporating at least 30 minutes of exercise into your daily routine. Choose a variety of foods like fruits, vegetables, lean proteins, and whole grains to maintain a balanced diet. Remember to stay hydrated by drinking plenty of water throughout the day. Keep up the good work!"
+    }
+]
