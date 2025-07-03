@@ -6,5 +6,77 @@
             "meal type": "snack",
             "time": "22:46"
         }
+    ],
+    "29-06-2025": [
+        {
+            "name": "Grilled Chicken",
+            "calories": 600,
+            "meal type": "lunch",
+            "time": "13:15"
+        }
+    ],
+    "28-06-2025": [
+        {
+            "name": "Paneer Wrap",
+            "calories": 450,
+            "meal type": "dinner",
+            "time": "20:40"
+        }
+    ],
+    "27-06-2025": [
+        {
+            "name": "Fruit Salad",
+            "calories": 200,
+            "meal type": "breakfast",
+            "time": "09:05"
+        }
+    ],
+    "26-06-2025": [
+        {
+            "name": "Dal Rice",
+            "calories": 520,
+            "meal type": "lunch",
+            "time": "13:35"
+        }
+    ],
+    "25-06-2025": [
+        {
+            "name": "Veg Sandwich",
+            "calories": 350,
+            "meal type": "snack",
+            "time": "17:30"
+        }
+    ],
+    "24-06-2025": [
+        {
+            "name": "Oats",
+            "calories": 300,
+            "meal type": "breakfast",
+            "time": "08:15"
+        }
+    ],
+    "23-06-2025": [
+        {
+            "name": "Pasta",
+            "calories": 550,
+            "meal type": "dinner",
+            "time": "21:10"
+        }
+    ],
+    "22-06-2025": [
+        {
+            "name": "Paratha",
+            "calories": 400,
+            "meal type": "breakfast",
+            "time": "10:00"
+        }
+    ],
+    "21-06-2025": [
+        {
+            "name": "Fried Rice",
+            "calories": 480,
+            "meal type": "lunch",
+            "time": "13:50"
+        }
     ]
 }
