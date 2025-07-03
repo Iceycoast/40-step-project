@@ -1,5 +1,28 @@
-⚠️ This repository contains the original version of Medicoast, built using JSON-based storage and basic CLI structure during early development.
-The project has now been fully restarted and upgraded with a modular architecture, SQL database, and modern web-based GUI using Flet.
+# 🩺 Medicoast (Old Version – JSON Based)
 
-➡️ Check out the new, scalable version of Medicoast here: New Medicoast Repository
-It features multi-user support, AI-powered health summaries, and a production-ready structure.
+> ⚠️ This repository contains the **original version** of Medicoast – a personal health tracker built using Python and JSON for storage.
+
+This version was developed as a learning project to practice:
+- File handling with JSON
+- CLI-based health loggers
+- AI feedback via OpenAI
+- Basic modularization
+
+---
+
+## 🔁 Project Rebooted
+
+Medicoast has now been **completely redesigned and rebuilt from scratch** with:
+
+- ✅ A centralized **SQLite database**
+- ✅ Fully **modular architecture**
+- ✅ Web-based GUI using **Flet**
+- ✅ **Multi-user login** system
+- ✅ **AI-powered summaries** for health insights
+
+➡️ Check out the new, upgraded repository here:  
+### [👉 Medicoast (SQL + Flet Version)](https://github.com/Iceycoast/Medicoast/tree/main)
+
+---
+
+Thank you for checking out this early version. The new project is built for real-world use and production-level quality.
